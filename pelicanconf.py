@@ -23,13 +23,13 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Home', '/index.html'),
-         ('About', '/about.html'),
+         ('About', '/pages/about.html'),
          ('Projects', '/projects.html'),
          ('Hobbies', '/hobbies.html'),)
 
 # Social widget
 SOCIAL = (('Email', 'mailto:kimyen@github.com'),
-          ('GitHub', 'http://github.com/github'),
+          ('GitHub', 'http://github.com/kimyen'),
           ('Linkedin', 'https://www.linkedin.com/in/kimyen-ladia-a3b50884'))
 
 DEFAULT_PAGINATION = 5

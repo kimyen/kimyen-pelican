@@ -54,5 +54,7 @@ FUZZY_DATES = True
 CURRENT_YEAR = datetime.now().year
 DEFAULT_DATE_FORMAT = "%b %d, %Y" 
 
-
+# Sitemap
+SITEMAP_SAVE_AS = 'sitemap.xml'
+DIRECT_TEMPLATES = ['sitemap', 'index']
 

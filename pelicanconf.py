@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime 
+from pathlib import Path
 
 AUTHOR = 'kimyen'
 SITENAME = 'kimyen'
@@ -39,5 +41,12 @@ DEFAULT_PAGINATION = 5
 DELETE_OUTPUT_DIRECTORY = False
 
 # theme
-THEME = '/Users/kimyen/GitHub/pelican-themes/voce'
+CURRENT_DIR_PATH = Path(__file__).resolve().parent
+THEME = '{}/voce-theme'.format(CURRENT_DIR_PATH)
+
+# Custom Vars
+USER_LOGO_URL = 'https://avatars1.githubusercontent.com/u/4404426?s=460&u=005f2c61c8afb6778c2d00b4a9746a67cd1c39f1&v=4'
+FUZZY_DATES = True
+CURRENT_YEAR = datetime.now().year
+DEFAULT_DATE_FORMAT = "%b %d, %Y" 
 

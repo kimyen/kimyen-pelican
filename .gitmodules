@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:kimyen/kimyen.github.io.git
+[submodule "voce-theme"]
+	path = voce-theme
+	url = https://github.com/kimyen/voce

@@ -24,8 +24,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Home', '/index.html'),
          ('About', '/pages/about.html'),
-         ('Projects', '/projects.html'),
-         ('Hobbies', '/hobbies.html'),)
+         ('Projects', '/pages/projects.html'),
+         ('Hobbies', '/pages/hobbies.html'),)
 
 # Social widget
 SOCIAL = (('Email', 'mailto:kimyen@github.com'),

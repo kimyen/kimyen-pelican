@@ -58,3 +58,5 @@ DEFAULT_DATE_FORMAT = "%b %d, %Y"
 SITEMAP_SAVE_AS = 'sitemap.xml'
 DIRECT_TEMPLATES = ['sitemap', 'index']
 
+# tags
+TAGS_URL = 'tags.html'

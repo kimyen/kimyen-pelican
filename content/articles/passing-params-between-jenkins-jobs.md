@@ -1,3 +1,4 @@
+Template: article
 Title: Passing Parameters Between Jenkins Jobs
 Date: 2018-03-05
 Slug: passing-params-between-jenkins-jobs

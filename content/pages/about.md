@@ -1,3 +1,4 @@
+Template: page
 Title: About
 Date: 2020-08-12
 Modified: 2020-08-12

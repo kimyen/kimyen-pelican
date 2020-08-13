@@ -1,6 +1,7 @@
 Title: Passing Parameters Between Jenkins Jobs
 Date: 2018-03-05
 Slug: passing-params-between-jenkins-jobs
+Tags: CI/CD, jenkins, builds, automation
 Authors: kimyen
 
 While working on the automated build system for the R client at Sage, I discovered how to pass parameters between Jenkins jobs. In this post, I will talk about why I was interested in this topic, and what I learned from setting up my builds.

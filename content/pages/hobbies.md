@@ -11,6 +11,7 @@ I grew up in a family where my parents changes jobs all the time. They would pic
 I am grateful for having a job that allows me to continue generating dopamine after work hours. I picked up many different hobbies that helps me busy, healthy and happy.
 
 Some crafts that I've done:
+
 - card making and paper crafting
 - gardenning; succulents and house plan collecting
 - knitting

@@ -1,10 +1,22 @@
 Template: page
 Title: Projects
 Date: 2020-08-12
-Modified: 2020-08-12
+Modified: 2020-08-14
 Slug: projects
 Authors: kimyen
 Summary: some projects that I've done
+
+
+# GitHub 
+
+
+### Airflow Backfill Tools
+- Worked with a team of 3 to design and build the infrastructure that allows users to submit backfill requests to Airflow. Implemented the backfill workers that uses Apache Airflow backfill command to carry out the backfill job for extended periods, manages and retries failed jobs, and surfaces non-retryable errors to end users.
+- Conducted mini user research to gather feedback and implemented the features that eases the adoption of the tools.
+- Saved 5+ engineer hrs/week 
+
+# Sage Bionetworks
+
 
 ### [Synapse-Repository-Services](https://github.com/Sage-Bionetworks/Synapse-Repository-Services) 
 The code base for [Synapse.org](https://www.synapse.org/) server and its Java client.

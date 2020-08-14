@@ -13,7 +13,7 @@ I am grateful for having a job that allows me to continue generating dopamine af
 Some crafts that I've done:
 
 - card making and paper crafting
-- gardenning; succulents and house plan collecting
+- gardenning; succulents and house plant collecting
 - knitting
 - laser cutting
 - leather work
